@@ -1,0 +1,1 @@
+create table game(user_id varchar(100), moves jsonb);
